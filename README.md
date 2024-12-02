@@ -1,16 +1,9 @@
-# with_destiny
+# Мобильное приложение 
 
-A new Flutter project.
+Стэк: Flet, Dart
 
-## Getting Started
+Приложение показывает цитату дня. После нажатия кнопки "Получить" на экране появляется цитата, а кнопка становится неактивна. Запускается таймер, который отсчитывает время до момента когда можно будет снова получить цитату.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/95bb3a3e-e2d0-494f-96e9-588b58f8536e)
+![image](https://github.com/user-attachments/assets/db18f56f-c9c9-46c6-a203-a06cb85cda4c)
+![image](https://github.com/user-attachments/assets/ab2cdf7c-c809-4931-8c05-c5bd2a73bc1e)
